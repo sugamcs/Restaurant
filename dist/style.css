@@ -1,0 +1,24 @@
+*{
+    margin: 1px;
+}
+
+
+#content {
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#img {
+    margin: 0%;
+    width: 500px;
+    height: 500px;
+    
+}
+#paragraph {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

@@ -5,6 +5,7 @@ import { createRestaurantAboutpage } from "./about";
 
 createRestaurantHomepage()
 
-function tabDisplayer (){
+function tabDisplayer (btnHome,btnAbout,btnMenu){
+    btnHome
 
 }

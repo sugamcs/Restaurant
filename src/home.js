@@ -31,5 +31,5 @@ export function createRestaurantHomepage() {
     description.textContent = "Welcome to our wonderful sushi restaurant. " +
       "We offer the finest sushi dishes in town. Come and enjoy the taste of Japan!";
     contentDiv.appendChild(description);
-  }
-  
+
+}

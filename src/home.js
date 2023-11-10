@@ -1,21 +1,6 @@
-
-
 export function createRestaurantHomepage() {
+    
     const contentDiv = document.getElementById("content");
-  
-    const btnHome = document.createElement('button');
-    btnHome.id = "home-button";
-    btnHome.textContent = "home";
-  
-    const btnMenu = document.createElement('button');
-    btnMenu.textContent = "menu";
-    btnMenu.id = "menu-button";
-  
-    const btnAbout = document.createElement('button');
-    btnAbout.textContent = "about";
-    btnAbout.id = "about-button";
-  
-    contentDiv.append(btnAbout, btnHome, btnMenu);
   
     const img = document.createElement("img");
     img.src = "restaurant1.jpg";

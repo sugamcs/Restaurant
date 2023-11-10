@@ -38,3 +38,4 @@ function handleTabClick(event) {
 buttons.forEach(button => {
     button.addEventListener("click", handleTabClick);
 });
+//finished

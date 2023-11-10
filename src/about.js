@@ -31,4 +31,7 @@ export function createRestaurantAboutpage() {
     description.textContent = "About Lorem ipsum dolor sit amet, consectetur adipisicing elit. " +
         "Perferendis atque nesciunt, ullam accusamus repellat qui?";
     contentDiv.appendChild(description);
+
+
+    
 }

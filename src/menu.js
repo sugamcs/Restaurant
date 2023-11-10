@@ -29,4 +29,6 @@ export function createRestaurantMenupage() {
     const description = document.createElement("p");
     description.textContent = "Explore our menu and enjoy a variety of delicious sushi dishes.";
     contentDiv.appendChild(description);
+
+    
 }

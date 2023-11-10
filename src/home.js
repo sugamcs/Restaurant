@@ -32,4 +32,6 @@ export function createRestaurantHomepage() {
       "We offer the finest sushi dishes in town. Come and enjoy the taste of Japan!";
     contentDiv.appendChild(description);
 
+    
+
 }
